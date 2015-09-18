@@ -8,12 +8,12 @@ namespace Lab4
         private double _y = 0;
         public double X
         {
-            set { if (value >= 0) _x = value; }
+            set { _x = value; }
             get { return _x; }
         }
         public double Y
         {
-            set { if (value >= 0) _y = value; }
+            set { _y = value; }
             get { return _y; }
         }
         public Point()
