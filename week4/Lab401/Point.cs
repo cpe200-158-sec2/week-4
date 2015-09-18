@@ -6,6 +6,9 @@ namespace Lab4
 	{
 		public Point ()
 		{
+            public double _x;
+            public double _y;
+                        
 		}
 	}
 }
