@@ -4,9 +4,36 @@ namespace Lab4
 {
 	public class Point
 	{
-		public Point ()
+        private double _x,_y;
+        public double X
+        {
+            get { return _x;}
+            set { _x = value; }
+        }
+        public double Y
+        {
+            get { return _y; }
+            set { _y = value; }
+        }
+        public Point ()
 		{
+            X = 0;
+            Y = 0;
 		}
-	}
+        public Point(Point p)
+        {
+            this.X = p.X;
+            this.Y = p.Y;
+        }
+        public Point(double a,double b)
+        {
+            X = a;
+            Y = b;
+        }
+        public override string ToString()
+        {
+            return String.Format("Point: x={0}, y={1}",_x,_y);
+        }
+    }
 }
 
