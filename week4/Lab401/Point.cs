@@ -30,6 +30,10 @@ namespace Lab4
             X = a;
             Y = b;
         }
-	}
+        public override string ToString()
+        {
+            return String.Format("Point: x={0}, y={1}",_x,_y);
+        }
+    }
 }
 
