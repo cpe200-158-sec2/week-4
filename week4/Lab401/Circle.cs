@@ -2,7 +2,7 @@
 
 namespace Lab4
 {
-    public class Circle : Point
+    public class Circle
 	{
         //Properties
         private Point _Center = new Point();
@@ -68,7 +68,7 @@ namespace Lab4
             area = Math.PI * this.Radius * this.Radius;
             return area;
         }
-
+        
         public override string ToString()
         {
             string s = "[Circle: center("+ this.Center.x + "," + this.Center.y + "), raduis=" + this.Radius + ", area =" + this.getArea() + "]";
