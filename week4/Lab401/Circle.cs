@@ -42,7 +42,7 @@ namespace Lab4
             this.radius = r;
         }
 
-        public double getArea()
+        public virtual double getArea()
         {
             return Math.PI * radius * radius;
         }

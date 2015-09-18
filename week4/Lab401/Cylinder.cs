@@ -47,7 +47,7 @@ namespace Lab4
             setCircle(0, 0, r);
         }
 
-        new public double getArea()
+        public override double getArea()
         {
             return base.getArea() * 2 + (2 * Math.PI * Radius * height) ;
         }
