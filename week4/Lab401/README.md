@@ -25,7 +25,7 @@
 
 ## Methods:
 - setCircle(double,double,double): take x,y,radius as parameters
-- getArea(): virtual, get area of a cicle
+- getArea(): virtual, get area of a circle
 - override ToString() method
 
 # 3. Cylinder Class:
@@ -48,7 +48,6 @@ Inherit from the Circle class. Use a circle as a base of cylinder
 
 
 ## Expected Output:
-
 [Circle: center(0,0), radius=1, area=3.14159265358979]
 [Circle: center(1.5,5), radius=2, area=12.5663706143592]
 [Circle: center(1.5,5), radius=2, area=12.5663706143592]

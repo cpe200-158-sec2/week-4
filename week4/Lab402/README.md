@@ -46,8 +46,11 @@ Abstract class
 ## Questions:
 
 1. Are there still any redundant lines of code in your project? where?
+    = Yes, there are. Redundant lines is line #9-51 in class Rectangle and line #7-47 in class Triangle.
 2. Modify the project so that you can minimize or solve those redundancy.
+    = move all of redundant lines to class Shape.
 3. What happen if you uncomment line #27-28 in the Program.cs file? Why?
+	= it's error that "Cannot creat an instance of the abstract class or interface 'Shape'" because Shape is abstract class that can't create new objects.
 4. If you uncomment line #30-24 in the Program.cs file, you will get some compile errors.
    Modify the classes and/or the program.cs without touching the "Main" method so that 
    the program will display the result as shown below:
