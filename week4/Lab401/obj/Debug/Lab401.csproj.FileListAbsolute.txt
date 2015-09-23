@@ -1,0 +1,6 @@
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\bin\Debug\Lab401.exe.config
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\obj\Debug\Lab401.csprojResolveAssemblyReference.cache
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\bin\Debug\Lab401.exe
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\bin\Debug\Lab401.pdb
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\obj\Debug\Lab401.exe
+C:\Users\tunas\Source\Repos\week-4\week4\Lab401\obj\Debug\Lab401.pdb
