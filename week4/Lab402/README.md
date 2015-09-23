@@ -46,8 +46,11 @@ Abstract class
 ## Questions:
 
 1. Are there still any redundant lines of code in your project? where?
+   = มี ใน Line 8-25 ของ Class Rectangle กับ Line 8-25 ของ Class Triangle ซึ่งมี Propeties Width เหมือนกัน และยังมี Line 26-43 ของ Calss Rectangle กับ Line 26-43 ของ Class Triangle ซึ่งมี Propeties Height เหมือนกัน
 2. Modify the project so that you can minimize or solve those redundancy.
+   = ย้าย Width กับ Height ที่อยู่ใน Class Rectangle และ Triangle ไปอยู่ใน Class Shape
 3. What happen if you uncomment line #27-28 in the Program.cs file? Why?
+   = error เพราะ Shape เป็น Abstract Class ซึ่งไม่สามารถสร้าง object ขึ้นมาได้
 4. If you uncomment line #30-24 in the Program.cs file, you will get some compile errors.
    Modify the classes and/or the program.cs without touching the "Main" method so that 
    the program will display the result as shown below:
