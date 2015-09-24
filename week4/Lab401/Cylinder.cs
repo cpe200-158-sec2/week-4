@@ -23,29 +23,29 @@ namespace Lab401
         }
         public Cylinder()
         {
-            Hight = 1.0;
+            this.Hight = 1.0;
         }
         public Cylinder(Circle c)
         {
             base.setCircle(c.A, c.B, c.Radius);
-            Hight = 1.0;
+            this.Hight = 1.0;
         }
         public Cylinder(double r, double h)
         {
-            Hight = h;
-            Radius = r;
+            this.Hight = h;
+            this.Radius = r;
 
         }
         public Cylinder(double x, double y, double r, double h)
         {
             base.setCircle(x, y, r);
-            Hight = h;
+            this.Hight = h;
         }
 
         public Cylinder(Cylinder cy)
         {
             base.setCircle(cy.A, cy.B, cy.Radius);
-            Hight = 1.0;
+            this.Hight = 1.0;
 
         }
         public override double getArea()

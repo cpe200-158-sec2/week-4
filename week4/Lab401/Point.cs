@@ -4,8 +4,9 @@ namespace Lab401
 {
     public class Point
     {
-        
-            private double _x, _y;
+
+            private double _x;
+            private double _y;
 
         public double A
         {
@@ -29,8 +30,8 @@ namespace Lab401
         }
         public Point(double a,double b)
         {
-            A = a;
-            B = b;
+            this.A = a;
+            this.B = b;
         }
     }
 
