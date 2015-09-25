@@ -46,11 +46,15 @@ Abstract class
 ## Questions:
 
 1. Are there still any redundant lines of code in your project? where?
+:ใช่ จะมีการใช้เส้นตัวของ width เเละ height ในคลาสของ triangle เเละ Rectriangle
 2. Modify the project so that you can minimize or solve those redundancy.
+:การเเก้ไข project นั้นทำให้โปรเเกรมนั้นมีความซับซ้อนน้อยลง โดยการย่อ
 3. What happen if you uncomment line #27-28 in the Program.cs file? Why?
+: โปรเเกรมที่เปิดนั้น error เพราะว่าไม่สามารถสร้างตัวที่ส่งผลต่อสี(colour)ได้
 4. If you uncomment line #30-24 in the Program.cs file, you will get some compile errors.
    Modify the classes and/or the program.cs without touching the "Main" method so that 
-   the program will display the result as shown below:
+   the program will display the result as shown below
+   :
 
 ## Expected Output:
 
