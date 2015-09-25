@@ -1,0 +1,5 @@
+E:\GitHub\CPE200\week-4\week4\Lab402\obj\x86\Debug\Lab402.csprojResolveAssemblyReference.cache
+E:\GitHub\CPE200\week-4\week4\Lab402\bin\Debug\ConsoleApplication.exe
+E:\GitHub\CPE200\week-4\week4\Lab402\bin\Debug\ConsoleApplication.pdb
+E:\GitHub\CPE200\week-4\week4\Lab402\obj\x86\Debug\ConsoleApplication.exe
+E:\GitHub\CPE200\week-4\week4\Lab402\obj\x86\Debug\ConsoleApplication.pdb
