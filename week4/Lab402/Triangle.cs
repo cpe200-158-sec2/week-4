@@ -26,7 +26,7 @@ namespace Lab402
 
 
         }
-        public Triangle(Rectangle r) : base(r.color)
+        public Triangle(Triangle r) : base(r.color)
         {
             Width = r.Width;
             Height = r.Height;
