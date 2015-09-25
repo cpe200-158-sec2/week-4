@@ -1,0 +1,5 @@
+C:\Users\Windows8.1\Source\Repos\week-42\week4\Lab402\bin\Debug\Lab402.exe
+C:\Users\Windows8.1\Source\Repos\week-42\week4\Lab402\bin\Debug\Lab402.pdb
+C:\Users\Windows8.1\Source\Repos\week-42\week4\Lab402\obj\x86\Debug\Lab402.csprojResolveAssemblyReference.cache
+C:\Users\Windows8.1\Source\Repos\week-42\week4\Lab402\obj\x86\Debug\Lab402.exe
+C:\Users\Windows8.1\Source\Repos\week-42\week4\Lab402\obj\x86\Debug\Lab402.pdb
