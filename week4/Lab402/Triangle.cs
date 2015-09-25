@@ -41,7 +41,7 @@ namespace Lab402
 
         public Triangle()
         {
-            
+             
         }
 
         public Triangle(string color, double w, double h) : base(color)
