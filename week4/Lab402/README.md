@@ -46,8 +46,10 @@ Abstract class
 ## Questions:
 
 1. Are there still any redundant lines of code in your project? where?
+ไม่รู้ครับ
 2. Modify the project so that you can minimize or solve those redundancy.
 3. What happen if you uncomment line #27-28 in the Program.cs file? Why?
+ไม่สามารถรันได้ เพราะ getPerimeter เป็น Abstract Class นำไปใช้งานเลยไม่ได้ 
 4. If you uncomment line #30-24 in the Program.cs file, you will get some compile errors.
    Modify the classes and/or the program.cs without touching the "Main" method so that 
    the program will display the result as shown below:
