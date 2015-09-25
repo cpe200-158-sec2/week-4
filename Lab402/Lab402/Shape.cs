@@ -2,8 +2,8 @@
 
 namespace Lab4
 {
-    public abstract class Shape
-    {
+	public abstract class Shape
+	{
         public abstract double getArea();
         public abstract double getPerimeter();
 
@@ -13,10 +13,10 @@ namespace Lab4
             get { return _c; }
         }
 
-        public Shape(string a = "gold")
-        {
+		public Shape(string a = "gold")
+		{
             _c = a;
-        }
+		}
 
         public override string ToString()
         {
