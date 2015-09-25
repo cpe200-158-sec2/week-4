@@ -12,10 +12,10 @@ namespace Lab4
             //			Console.WriteLine (s4);
 
             			Console.WriteLine ("Perimeter s1: "+printPerimeter (s1));
-            			Console.WriteLine ("Perimeter s2: "+printPerimeter (s2));
-            			Console.WriteLine ("Perimeter s3: "+printPerimeter (s3));
-            			Console.WriteLine ("Perimeter r1: "+printPerimeter (r1));
-            			Console.WriteLine ("Perimeter t1: "+printPerimeter (t1));
+            			Console.WriteLine ("Perimeter s1: "+printPerimeter (s2));
+            			Console.WriteLine ("Perimeter s1: "+printPerimeter (s3));
+            			Console.WriteLine ("Perimeter s1: "+printPerimeter (r1));
+            			Console.WriteLine ("Perimeter s1: "+printPerimeter (t1));
             Console.ReadKey();
 
         }

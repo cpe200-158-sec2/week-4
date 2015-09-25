@@ -40,19 +40,19 @@ namespace Lab4
 
         public Triangle()
         {
-            Color = "gold";
+            _c = "gold";
             Width = 1.0;
             Height = 1.0;
         }
         public Triangle(string c, double w, double h)
         {
-            Color = c;
+            _c = c;
             Width = w;
             Height = h;
         }
         public Triangle(Triangle a)
         {
-            Color = a.Color;
+            _c = a.Color;
             Width = a.Width;
             Height = a.Height;
         }
